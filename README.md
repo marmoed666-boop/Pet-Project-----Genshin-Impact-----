@@ -1,2 +1,6 @@
-# Pet-Project-----Genshin-Impact-----
-just pet-project with using OOP and cicle while, if
+# Pet-Project<<<<-<-<-<-<-<Genshin-Impact>->->->->->>>>
+> Это пет-проект, созданный лишь для показа знаний о Python.
+> Также имеются знания о базе Python и OOP
+> Задач он никаких не решает, создан в качестве эксперимента.
+> <<<<-<-<-<-<ПОКА ЧТО ВСЁ>->->->->>>>
+> 
